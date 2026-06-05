@@ -67,6 +67,6 @@ A solução permitiu:
 - Fábio Souza de Melo Sá
 - Ryan Vinícius dos Santos Corrêa da Penha
 
-## 📚 Projeto Acadêmico
+##  Projeto Acadêmico
 
 Projeto desenvolvido para a Universidade Estácio de Sá como atividade extensionista, aplicando conceitos de análise de dados, Business Intelligence e visualização de informações em um cenário real.
