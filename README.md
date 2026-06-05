@@ -2,11 +2,11 @@
 
 Projeto desenvolvido para transformar dados operacionais de chamados técnicos em informações estratégicas por meio de análise de dados e visualização interativa.
 
-## 📌 Objetivo
+##  Objetivo
 
 Criar um dashboard capaz de fornecer uma visão gerencial dos atendimentos realizados por uma empresa de suporte em TI, permitindo acompanhar indicadores de desempenho, produtividade da equipe e carga de trabalho.
 
-## 🚀 Funcionalidades
+##  Funcionalidades
 
 - Monitoramento do tempo médio de atendimento
 - Quantidade de chamados por período
@@ -16,14 +16,14 @@ Criar um dashboard capaz de fornecer uma visão gerencial dos atendimentos reali
 - Indicadores gerenciais para apoio à tomada de decisão
 - Previsão de carga de trabalho baseada em dados históricos
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - Python
 - Pandas
 - Microsoft Excel
 - Power BI
 
-## 📊 Fluxo do Projeto
+##  Fluxo do Projeto
 
 1. Recebimento dos dados em planilhas XLS/XLSX
 2. Tratamento e padronização dos dados utilizando Python e Pandas
@@ -31,7 +31,7 @@ Criar um dashboard capaz de fornecer uma visão gerencial dos atendimentos reali
 4. Desenvolvimento do dashboard no Power BI
 5. Análise dos resultados e validação da solução
 
-## 📁 Estrutura dos Dados
+##  Estrutura dos Dados
 
 Os dados analisados contêm informações como:
 
@@ -44,7 +44,7 @@ Os dados analisados contêm informações como:
 - Duração
 - Duração em minutos
 
-## 🎯 Resultados
+##  Resultados
 
 A solução permitiu:
 
@@ -54,7 +54,7 @@ A solução permitiu:
 - Auxiliar gestores na tomada de decisões
 - Apoiar o planejamento da equipe de suporte
 
-## 📈 Melhorias Futuras
+##  Melhorias Futuras
 
 - Integração automática com o sistema de chamados
 - Atualização automática dos dados
@@ -62,7 +62,7 @@ A solução permitiu:
 - Novos indicadores de desempenho
 - Modelos preditivos mais avançados
 
-## 👨‍💻 Autores
+##  Autores
 
 - Fábio Souza de Melo Sá
 - Ryan Vinícius dos Santos Corrêa da Penha
